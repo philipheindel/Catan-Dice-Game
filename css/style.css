@@ -23,7 +23,7 @@ table {
   background: inherit;
   margin: 0px;
   padding: inherit;
-  height: inherit;
-  width: inherit;
+  height: 100%;
+  width: 100%;
   border: 0px solid white;
 }
