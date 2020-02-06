@@ -3,9 +3,27 @@ table {
 }
 
 .cell {
-  border: 1px solid black;
+  background: #f9f4ef;
+  margin: 1px;
+  padding: 0px;
+  height: 2em;
+  width: 1em;
 }
 
 .empty-cell {
   visibility: hidden;
+}
+
+.row {
+  text-align: center;
+  
+}
+
+.score {
+  background: inherit;
+  margin: 0px;
+  padding: inherit;
+  height: inherit;
+  width: inherit;
+  border: 0px solid white;
 }
